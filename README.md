@@ -38,6 +38,6 @@ The target audience is second-year science and engineering students, with minima
 
 This module is a preamble to digital signal processing. Learners will manipulate complex numbers using Python, explore information in wave form, programmatically and through visualization, and apply Fourier analysis on wave-like data.
 
-## EngComp6: 12 steps to neural networks
+## EngComp6: 12 steps to neural networks (WIP)
 
 A step-by-step introduction to deep learning (a.k.a. neural network) models, aimed at scientists and engineers having a background in calculus and linear algebra.
