@@ -8,4 +8,4 @@ Professor Barba developed a two-course series in engineering computations at the
 The materials for those courses are written in a modular fashion, and consist of five self-contained modules that can be individually adopted by other instructors.
 This GitHub organization hosts the original modules in engineering computations, plus new work-in-progress advanced modules.
 
-Start here: https://github.com/engineersCode/EngComp
+## Start here 👉 https://github.com/engineersCode/EngComp
