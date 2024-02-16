@@ -1,4 +1,4 @@
-# Engineering Computations
+![Copy of EngComp](https://github.com/engineersCode/.github/assets/4800109/3d780611-cd3a-4195-aa30-77834ad53d95)
 
 > A collection of learning modules on computing for engineering and science students
 
