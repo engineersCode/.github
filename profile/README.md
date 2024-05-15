@@ -1,4 +1,5 @@
-![Copy of EngComp](https://github.com/engineersCode/.github/assets/4800109/3d780611-cd3a-4195-aa30-77834ad53d95)
+
+<img width="958" alt="engcomp_banner" src="https://github.com/engineersCode/.github/assets/4800109/4cab826b-3839-42f8-957b-00c219b5fe9e">
 
 > A collection of learning modules on computing for engineering and science students
 
